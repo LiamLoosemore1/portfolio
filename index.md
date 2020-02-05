@@ -1,5 +1,10 @@
 
 ## portfolio
+
+**CV**
+
+[link](CV.html)
+
 **contact info** 
 
 - email - liamloosemore2@gmail.com
