@@ -6,6 +6,7 @@ I am an enthusiastic hard working young man I left school on 15 th June 2018. I 
 I have a foundation diploma in Games and Software Development currently working towards an extended diploma at college I will achieve this June 2020.
 
 **IT/Technical skills**
+
 1. C#
 1. Unity
 1. Python
@@ -15,6 +16,7 @@ I have a foundation diploma in Games and Software Development currently working 
 1. Git
 
 **Career summary**
+
 06, 2017	Wendy kelly Flowers		Flower Conditioner	
 I have worked at Wendy Kelly Flowers for a short time I helped with conditioning of flowers, I would water, feed and deheading plants, I had to be careful not to bruise or damage the flowers. I covered for holiday purposes. 
 
