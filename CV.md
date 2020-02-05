@@ -39,3 +39,7 @@ Computer science | N/A | A*
 IT | 6 | B Higher
 RS (religious studies) | 3 | D
 
+**Currently studing** 
+
+I am currently at college full time to get  my extended diploma in software development.   Here I learned how to code in C# as well as a little in javascript most of the tasks we get are towards unity and how to use it. We use Github to upload and save our work so we can access it by pulling it and then commit any change that we do. Furthermore we showed how to create branches such as beta’s or for testing purposes. Personally my project is on VR and how motion sickness is caused as well as ways to prevent it by flashy lights as well as motion blur. More recently we were put into groups to create a christmas game in under 4 hours utilizing source-tree and github if you would like to look at the game i will have a link https://github.com/LiamLoosemore1/Chrismas.git 
+This was a game we as a group of 4 created with a little input from our teachers.
