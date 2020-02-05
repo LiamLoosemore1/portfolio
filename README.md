@@ -13,9 +13,9 @@ Syntax highlighted code block
 
 # Header 1
 ## Header 2
-### Header 3
 
-- Bulleted
+<h1> Header 1 </h1>
+<h2> Header 2 </h2>
 - List
 
 1. Numbered
