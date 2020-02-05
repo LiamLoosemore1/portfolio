@@ -2,8 +2,11 @@
 layout: default
 ---
 
-## Welcome to another page
+## portfolio
+**contact info** 
 
-_yay_
+- email - liamloosemore2@gmail.com
+- Phone number - 07471 864245
+
 
 [back](./)
