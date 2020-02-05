@@ -17,19 +17,19 @@ I have a foundation diploma in Games and Software Development currently working 
 
 **Career summary**
 
-06, 2017  	Wendy kelly Flowers	  	Flower Conditioner	
+06, 2017  	Wendy kelly Flowers,	  	Flower Conditioner	
 
 I have worked at Wendy Kelly Flowers for a short time I helped with conditioning of flowers, I would water, feed and deheading plants, I had to be careful not to bruise or damage the flowers. I covered for holiday purposes. 
 
-03, 2018  	Home Improvements		  Telemarketer 
+03, 2018  	Home Improvements,		  Telemarketer 
 
 I worked as a Marketing agent. I got full training for being a Marketing agent. I had to get customers interested in the product I was offering. We also had company targets which were targets for sales we got. I worked there for over 2 months I left because I was not meeting the correct criteria for the job and after the 2 months I wasn’t meeting the target that was set for me so unfortunately, I had to leave.
 
-10, 2018	  Cloe’s Cafe 			Barista / Waiter
+10, 2018	  Cloe’s Cafe, 			Barista / Waiter
 
 I worked in a cafe in Seaford for 5 months. I worked as a barista as well as a waiter. I was taught how to make coffee as well proper mannorisomes on how to carry multiple plates as well as multiple cups quickly and effectively. My main priority was keeping customers satisfied with the outcome of the service as well as keeping up with a high paced work and high amount of orders. I had to keep the work station clean, keep orders organised and help out other staff if needed.
 
-07, 2019	  The Original Factory Shop       shop floor assistant 
+07, 2019	  The Original Factory Shop,       shop floor assistant 
 
 I currently work for TOFS (The Original Factory Shop) here I interact with customers and help them with their general shop anything from helping them find a specific item or carrying a heavy item back to their car when they are not strong enough or less able. I gained a lot of conficance with this job as I was interacting with interesting people all the time, all with different personalities as well as different opinions. Working here has broadened my mind and expanded my creativity when it comes to life style and my general ideas 
 
